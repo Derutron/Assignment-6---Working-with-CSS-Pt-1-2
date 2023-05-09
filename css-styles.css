@@ -1,0 +1,87 @@
+
+    .header {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            background-color: rgb(228, 228, 166);
+            outline: #4CAF50 solid 5px;
+            padding: 10px;
+            margin: 40px; 
+            }
+
+
+    .main {
+          background-color: rgb(228, 220, 166);
+          outline: #4CAF50 solid 5px;
+          padding: 10px;
+          margin: 40px; 
+          }
+
+
+    .footer {
+            background-color: rgb(228, 220, 166);
+            outline: #4CAF50 solid 5px;
+            padding: 10px;
+            margin: 40px; 
+            }
+    
+    
+    
+    h1 {
+       font-size: 100px;
+       color: rgb(165, 42, 118);
+       text-align: center;
+       margin-bottom: 10px;
+       }
+
+    h2 {
+       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       font-size: 50px;
+       text-align: center;
+       color: hwb(249 4% 46%)
+       }
+
+    h3 {
+       font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+       font-size: 30px;
+       text-align: center;
+       margin-bottom: 10px;
+       } 
+
+    ul {
+       font-size: 30px;
+       color: hwb(130 4% 71%)
+       }
+   
+    p {
+      font-size: 30px;
+      color: hwb(214 0% 45%)
+      }
+    
+    
+    #first-item {
+                background-color: rgb(197, 219, 135);
+                padding: 10px;
+                border: rgb(65, 187, 71) 2px solid;
+                margin: 20px;
+                color: hwb(214 0% 45%)
+                }
+
+
+    img {
+        max-width: 100%;
+        max-height: 100%;
+        }
+    
+    a:hover{
+           color:red 
+           }
+
+    a:active {
+             color: rgb(241, 241, 245);
+             }
+
+    th, td {
+           border: 0.5px solid rgb(17, 3, 34);
+           border: 1px solid blue;
+           box-sizing: border-box;
+           }
+   
